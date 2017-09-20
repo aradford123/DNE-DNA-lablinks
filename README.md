@@ -7,5 +7,11 @@
 - Mission: https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-np-rest-apic/05-apic-04-mission/step/1
 
 ### NETCONF/YANG
--
+- Lab2: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/02-introducing-yang-data-modeling/step/3 
+- Lab2: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/02-introducing-yang-data-modeling/step/4 
+- Lab3: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/03-introducing-the-netconf-protocol/step/3 
+- Lab3: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/03-introducing-the-netconf-protocol/step/5 
+- Lab3: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/03-introducing-the-netconf-protocol/step/7 
+- Mission: https://learninglabs.cisco.com/tracks/devnet-express-dna/dna-restconf-netconf-yang/06-dmi-05-mission/step/5
+
 
