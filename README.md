@@ -16,7 +16,7 @@ https://github.com/CiscoDevNet/devnet-express-code-samples
 
 ### Verifying the Lab Environment
 - Lab1 - Connect to pod (you should have the details in spark room)
-- Lab2 - Setup the spark envinronent https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-lab-setup/03-environment-02-accessing-the-lab-environment/step/1 (Step1)
+- Lab2 - Setup the spark environment https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-lab-setup/03-environment-02-accessing-the-lab-environment/step/1 (Step1)
 - Mission - https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-lab-setup/03-environment-03-mission/step/1
 
 ## Day2
