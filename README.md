@@ -14,6 +14,11 @@ https://github.com/CiscoDevNet/devnet-express-code-samples
 - Lab6: LM-1201/04-python-json, json_parse_3.py
 - Lab7: https://learninglabs.cisco.com/tracks/devnet-express-dna/intro-python-programming-devnet-express/00-prep-04-python-primer2/step/4 (just step4)
 
+### Verifying the Lab Environment
+- Lab1 - Connect to pod (you should have the details in spark room)
+- Lab2 - Setup the spark envinronent https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-lab-setup/03-environment-02-accessing-the-lab-environment/step/1 (Step1)
+- Mission - https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-lab-setup/03-environment-03-mission/step/1
+
 ## Day2
 ### APIC-EM
 - Lab1: https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-np-rest-apic/05-apic-03-apic-em-rest-api-python-app/step/1
