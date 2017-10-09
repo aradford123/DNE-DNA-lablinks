@@ -1,5 +1,13 @@
 # List of links for DevNetExpress DNA labs
 
+## Day1
+
+setting up
+https://github.com/CiscoDevNet/devnet-express-code-samples
+
+### Introduction to Python
+- Lab1: https://learninglabs.cisco.com/tracks/devnet-express-dna/intro-python-programming-devnet-express/collab-tools-intro-to-git-itp/step/1
+
 ## Day2
 ### APIC-EM
 - Lab1: https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-np-rest-apic/05-apic-03-apic-em-rest-api-python-app/step/1
