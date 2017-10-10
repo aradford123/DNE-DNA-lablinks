@@ -20,13 +20,14 @@ https://github.com/CiscoDevNet/devnet-express-code-samples
 - Mission - https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-lab-setup/03-environment-03-mission/step/1
 
 ### REST API
-####Labs 1&2
+#### Labs 1&2
 - Lab 1: https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-np-rest-python/00-prep-02-overview-of-rest-apis/step/1
 - Lab 2: https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-np-rest-python/04-rest-02-spark-rest-api-and-postman/step/1
 
-####Labs 3&4
+#### Labs 3&4
 - Lab 3: https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-np-rest-python/04-rest-03-interfacing-with-rest-apis-using-python/step/1
 - Lab 4: https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-np-rest-python/04-rest-04-coding-python-json/step/1
+#### Mission
 - Mission https://learninglabs.cisco.com/tracks/devnet-express-dna/devnet-express-np-rest-python/04-rest-05-mission/step/1
 
 ## Day2
