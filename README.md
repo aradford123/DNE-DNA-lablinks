@@ -44,4 +44,6 @@ https://github.com/CiscoDevNet/devnet-express-code-samples
 - Lab3: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/03-introducing-the-netconf-protocol/step/7 
 - Mission: https://learninglabs.cisco.com/tracks/devnet-express-dna/dna-restconf-netconf-yang/06-dmi-05-mission/step/5
 
+### CMX
+- Lab 3: https://learninglabs.cisco.com/tracks/devnet-express-dna/dna-cmx-mse/09-cmx-03-cmx-and-mse-deep-dive/step/1
 
