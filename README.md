@@ -42,9 +42,14 @@ LM-4602
   - if you are using a windows machine and having issues with pyang :  https://github.com/joshmatt-dev/pyang-for-windows
 
 - Lab2: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/02-introducing-yang-data-modeling/step/4 
+  - python get_interfaces_yang.py
+  - python get_one_interface_yang.py
 - Lab3: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/03-introducing-the-netconf-protocol/step/3 
+  - python get_capabilities.py
 - Lab3: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/03-introducing-the-netconf-protocol/step/5 
+  - python get_hostname.py
 - Lab3: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/03-introducing-the-netconf-protocol/step/7 
+  - python get_interfaces_config.py
 - Mission: https://learninglabs.cisco.com/tracks/devnet-express-dna/dna-restconf-netconf-yang/06-dmi-05-mission/step/5
 
 ### CMX
