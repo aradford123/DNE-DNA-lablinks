@@ -39,7 +39,7 @@ https://github.com/CiscoDevNet/devnet-express-code-samples
 ### NETCONF/YANG
 LM-4602
 - Lab2: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/02-introducing-yang-data-modeling/step/3 
-  if you are using a windows machine and having issues with pyang :  https://github.com/joshmatt-dev/pyang-for-windows
+  - if you are using a windows machine and having issues with pyang :  https://github.com/joshmatt-dev/pyang-for-windows
 
 - Lab2: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/02-introducing-yang-data-modeling/step/4 
 - Lab3: https://learninglabs.cisco.com/modules/intro-device-level-interfaces/03-introducing-the-netconf-protocol/step/3 
