@@ -1,7 +1,5 @@
 # List of links for DevNetExpress DNA labs
 
-## Day0
-for NZ as it is better than AU
 
 ## Day1
 
